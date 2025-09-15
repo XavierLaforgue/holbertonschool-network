@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-# Display listening ports showing only listening sockets, PID and name
-# of the program to which ach socket belongs.
-netstat -lntup
+# Display listening ports with PID and name of the program.
+netstat -lp
