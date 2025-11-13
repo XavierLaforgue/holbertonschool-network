@@ -1,1 +1,2 @@
-# What happens when you type google.com in your browser and press Enter
+# Project: What happens when you type [https://www.google.com](https://www.google.com) in your browser and press Enter ?
+For the last project in the network chapter of the Holberton School fundamentals of programming course, I write a post for the **Medium** blogging platform where I attempt to answer the interrogation in question: *What happens when you type google.com in your browser and press Enter?*
